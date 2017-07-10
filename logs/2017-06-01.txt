@@ -1,0 +1,166 @@
+
+
+[01-Jun-2017 11:52:28 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('products')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 11:52:28 Europe/Moscow] PHP Fatal error:  Uncaught exception 'Twig_Error_Loader' with message 'Unable to find template "" (looked into: ../App/Views).' in C:\OpenServer\OpenServer\domains\knockout.local\App\Views\500.html:1
+Stack trace:
+#0 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Loader\Filesystem.php(150): Twig_Loader_Filesystem->findTemplate(NULL)
+#1 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(329): Twig_Loader_Filesystem->getCacheKey(NULL)
+#2 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(419): Twig_Environment->getTemplateClass(NULL)
+#3 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Template.php(366): Twig_Environment->loadTemplate(NULL, NULL)
+#4 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(462) : eval()'d code(19): Twig_Template->loadTemplate(NULL, '500.html', 1)
+#5 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Template.php(122): __TwigTemplate_5d69d5462d58 in C:\OpenServer\OpenServer\domains\knockout.local\App\Views\500.html on line 1
+[01-Jun-2017 11:52:31 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 11:52:31 Europe/Moscow] PHP Fatal error:  Uncaught exception 'Twig_Error_Loader' with message 'Unable to find template "" (looked into: ../App/Views).' in C:\OpenServer\OpenServer\domains\knockout.local\App\Views\500.html:1
+Stack trace:
+#0 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Loader\Filesystem.php(150): Twig_Loader_Filesystem->findTemplate(NULL)
+#1 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(329): Twig_Loader_Filesystem->getCacheKey(NULL)
+#2 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(419): Twig_Environment->getTemplateClass(NULL)
+#3 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Template.php(366): Twig_Environment->loadTemplate(NULL, NULL)
+#4 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(462) : eval()'d code(19): Twig_Template->loadTemplate(NULL, '500.html', 1)
+#5 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Template.php(122): __TwigTemplate_5d69d5462d58 in C:\OpenServer\OpenServer\domains\knockout.local\App\Views\500.html on line 1
+[01-Jun-2017 11:53:40 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('products')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 11:53:41 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('products')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 11:53:53 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('products')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 11:53:53 Europe/Moscow] PHP Fatal error:  Uncaught exception 'Twig_Error_Loader' with message 'Unable to find template "" (looked into: ../App/Views).' in C:\OpenServer\OpenServer\domains\knockout.local\App\Views\500.html:1
+Stack trace:
+#0 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Loader\Filesystem.php(150): Twig_Loader_Filesystem->findTemplate(NULL)
+#1 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(329): Twig_Loader_Filesystem->getCacheKey(NULL)
+#2 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(419): Twig_Environment->getTemplateClass(NULL)
+#3 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Template.php(366): Twig_Environment->loadTemplate(NULL, NULL)
+#4 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(462) : eval()'d code(19): Twig_Template->loadTemplate(NULL, '500.html', 1)
+#5 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Template.php(122): __TwigTemplate_5d69d5462d58 in C:\OpenServer\OpenServer\domains\knockout.local\App\Views\500.html on line 1
+[01-Jun-2017 11:53:53 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 11:53:53 Europe/Moscow] PHP Fatal error:  Uncaught exception 'Twig_Error_Loader' with message 'Unable to find template "" (looked into: ../App/Views).' in C:\OpenServer\OpenServer\domains\knockout.local\App\Views\500.html:1
+Stack trace:
+#0 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Loader\Filesystem.php(150): Twig_Loader_Filesystem->findTemplate(NULL)
+#1 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(329): Twig_Loader_Filesystem->getCacheKey(NULL)
+#2 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(419): Twig_Environment->getTemplateClass(NULL)
+#3 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Template.php(366): Twig_Environment->loadTemplate(NULL, NULL)
+#4 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(462) : eval()'d code(19): Twig_Template->loadTemplate(NULL, '500.html', 1)
+#5 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Template.php(122): __TwigTemplate_5d69d5462d58 in C:\OpenServer\OpenServer\domains\knockout.local\App\Views\500.html on line 1
+[01-Jun-2017 11:55:25 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('products')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 11:55:26 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('products')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 11:55:33 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 11:55:34 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 11:55:38 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('prd')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 11:56:08 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('prd')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 11:56:08 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 11:56:26 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('prd')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 11:56:26 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 11:56:58 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('prd')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 11:56:58 Europe/Moscow] PHP Fatal error:  Uncaught exception 'Twig_Error_Loader' with message 'Unable to find template "" (looked into: ../App/Views).' in C:\OpenServer\OpenServer\domains\knockout.local\App\Views\500.html:1
+Stack trace:
+#0 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Loader\Filesystem.php(150): Twig_Loader_Filesystem->findTemplate(NULL)
+#1 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(329): Twig_Loader_Filesystem->getCacheKey(NULL)
+#2 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(419): Twig_Environment->getTemplateClass(NULL)
+#3 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Template.php(366): Twig_Environment->loadTemplate(NULL, NULL)
+#4 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(462) : eval()'d code(19): Twig_Template->loadTemplate(NULL, '500.html', 1)
+#5 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Template.php(122): __TwigTemplate_5d69d5462d58 in C:\OpenServer\OpenServer\domains\knockout.local\App\Views\500.html on line 1
+[01-Jun-2017 11:56:58 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 11:56:59 Europe/Moscow] PHP Fatal error:  Uncaught exception 'Twig_Error_Loader' with message 'Unable to find template "" (looked into: ../App/Views).' in C:\OpenServer\OpenServer\domains\knockout.local\App\Views\500.html:1
+Stack trace:
+#0 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Loader\Filesystem.php(150): Twig_Loader_Filesystem->findTemplate(NULL)
+#1 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(329): Twig_Loader_Filesystem->getCacheKey(NULL)
+#2 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(419): Twig_Environment->getTemplateClass(NULL)
+#3 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Template.php(366): Twig_Environment->loadTemplate(NULL, NULL)
+#4 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(462) : eval()'d code(19): Twig_Template->loadTemplate(NULL, '500.html', 1)
+#5 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Template.php(122): __TwigTemplate_5d69d5462d58 in C:\OpenServer\OpenServer\domains\knockout.local\App\Views\500.html on line 1
+[01-Jun-2017 12:01:49 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('prd')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 12:01:49 Europe/Moscow] PHP Fatal error:  Uncaught exception 'Twig_Error_Loader' with message 'Unable to find template "" (looked into: ../App/Views).' in C:\OpenServer\OpenServer\domains\knockout.local\App\Views\500.html:1
+Stack trace:
+#0 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Loader\Filesystem.php(150): Twig_Loader_Filesystem->findTemplate(NULL)
+#1 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(329): Twig_Loader_Filesystem->getCacheKey(NULL)
+#2 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(419): Twig_Environment->getTemplateClass(NULL)
+#3 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Template.php(366): Twig_Environment->loadTemplate(NULL, NULL)
+#4 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(462) : eval()'d code(19): Twig_Template->loadTemplate(NULL, '500.html', 1)
+#5 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Template.php(122): __TwigTemplate_5d69d5462d58 in C:\OpenServer\OpenServer\domains\knockout.local\App\Views\500.html on line 1
+[01-Jun-2017 12:01:49 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 12:01:49 Europe/Moscow] PHP Fatal error:  Uncaught exception 'Twig_Error_Loader' with message 'Unable to find template "" (looked into: ../App/Views).' in C:\OpenServer\OpenServer\domains\knockout.local\App\Views\500.html:1
+Stack trace:
+#0 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Loader\Filesystem.php(150): Twig_Loader_Filesystem->findTemplate(NULL)
+#1 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(329): Twig_Loader_Filesystem->getCacheKey(NULL)
+#2 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(419): Twig_Environment->getTemplateClass(NULL)
+#3 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Template.php(366): Twig_Environment->loadTemplate(NULL, NULL)
+#4 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(462) : eval()'d code(19): Twig_Template->loadTemplate(NULL, '500.html', 1)
+#5 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Template.php(122): __TwigTemplate_5d69d5462d58 in C:\OpenServer\OpenServer\domains\knockout.local\App\Views\500.html on line 1
+[01-Jun-2017 12:02:29 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('prd')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 12:02:30 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 12:02:55 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('prd')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 12:02:55 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 12:03:00 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('products')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[01-Jun-2017 12:03:00 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62

@@ -1,0 +1,400 @@
+[04-Jun-2017 10:38:30 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 10:41:49 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 10:42:01 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 10:45:37 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('img/person.png')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 10:45:37 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 10:47:30 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('img/person.png')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 10:47:30 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 10:50:27 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 10:50:49 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 10:50:51 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 10:50:55 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 10:51:07 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 10:51:50 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 10:53:12 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('img/person.png')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 10:53:12 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 10:53:17 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('img/person.png')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 10:53:17 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 10:53:17 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('img/person.png')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 10:53:17 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 11:20:19 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('img/person.png')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 11:20:19 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 11:20:25 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('img/person.png')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 11:20:25 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 11:57:38 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('img/person.png')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 11:57:38 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 11:59:15 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('img/person.png')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 11:59:15 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 11:59:36 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('img/person.png')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 11:59:36 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:04:06 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('img/person.png')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:04:06 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:04:57 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('img/person.png')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:04:57 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:05:04 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('img/person.png')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:05:04 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:05:07 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('img/person.png')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:05:08 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:06:42 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('img/person.png')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:06:42 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:06:44 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('img/person.png')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:06:44 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:08:54 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('img/person.png')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:08:54 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:12:02 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:12:15 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:12:18 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:12:34 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:14:29 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:21:57 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:23:13 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:27:31 Europe/Moscow] Uncaught exception: 'Twig_Error_Syntax' with message: 'Unknown "each" function.'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\ExpressionParser.php(374): Twig_ExpressionParser->getFunctionNodeClass('each', 50)
+#1 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\ExpressionParser.php(162): Twig_ExpressionParser->getFunctionNode('each', 50)
+#2 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\ExpressionParser.php(102): Twig_ExpressionParser->parsePrimaryExpression()
+#3 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\ExpressionParser.php(55): Twig_ExpressionParser->getPrimary()
+#4 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Parser.php(147): Twig_ExpressionParser->parseExpression()
+#5 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\TokenParser\Block.php(40): Twig_Parser->subparse(Array, true)
+#6 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Parser.php(190): Twig_TokenParser_Block->parse(Object(Twig_Token))
+#7 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Parser.php(103): Twig_Parser->subparse(NULL, false)
+#8 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(692): Twig_Parser->parse(Object(Twig_TokenStream))
+#9 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(750): Twig_Environment->parse(Object(Twig_TokenStream))
+#10 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(447): Twig_Environment->compileSource(Object(Twig_Source))
+#11 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(362): Twig_Environment->loadTemplate('Home/index.html')
+#12 C:\OpenServer\OpenServer\domains\knockout.local\Core\View.php(33): Twig_Environment->render('Home/index.html', Array)
+#13 C:\OpenServer\OpenServer\domains\knockout.local\App\Controllers\Home.php(18): Core\View::renderTemplate('Home/index.html', Array)
+#14 [internal function]: App\Controllers\Home->indexAction()
+#15 C:\OpenServer\OpenServer\domains\knockout.local\Core\Controller.php(24): call_user_func_array(Array, Array)
+#16 C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php(46): Core\Controller->__call('index', Array)
+#17 C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php(46): App\Controllers\Home->index()
+#18 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('')
+#19 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\App\Views\Home\index.html' on line 50
+[04-Jun-2017 12:27:32 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:27:38 Europe/Moscow] Uncaught exception: 'Twig_Error_Syntax' with message: 'Unknown "each" function.'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\ExpressionParser.php(374): Twig_ExpressionParser->getFunctionNodeClass('each', 50)
+#1 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\ExpressionParser.php(162): Twig_ExpressionParser->getFunctionNode('each', 50)
+#2 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\ExpressionParser.php(102): Twig_ExpressionParser->parsePrimaryExpression()
+#3 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\ExpressionParser.php(55): Twig_ExpressionParser->getPrimary()
+#4 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Parser.php(147): Twig_ExpressionParser->parseExpression()
+#5 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\TokenParser\Block.php(40): Twig_Parser->subparse(Array, true)
+#6 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Parser.php(190): Twig_TokenParser_Block->parse(Object(Twig_Token))
+#7 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Parser.php(103): Twig_Parser->subparse(NULL, false)
+#8 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(692): Twig_Parser->parse(Object(Twig_TokenStream))
+#9 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(750): Twig_Environment->parse(Object(Twig_TokenStream))
+#10 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(447): Twig_Environment->compileSource(Object(Twig_Source))
+#11 C:\OpenServer\OpenServer\domains\knockout.local\vendor\twig\lib\Twig\Environment.php(362): Twig_Environment->loadTemplate('Home/index.html')
+#12 C:\OpenServer\OpenServer\domains\knockout.local\Core\View.php(33): Twig_Environment->render('Home/index.html', Array)
+#13 C:\OpenServer\OpenServer\domains\knockout.local\App\Controllers\Home.php(18): Core\View::renderTemplate('Home/index.html', Array)
+#14 [internal function]: App\Controllers\Home->indexAction()
+#15 C:\OpenServer\OpenServer\domains\knockout.local\Core\Controller.php(24): call_user_func_array(Array, Array)
+#16 C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php(46): Core\Controller->__call('index', Array)
+#17 C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php(46): App\Controllers\Home->index()
+#18 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('')
+#19 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\App\Views\Home\index.html' on line 50
+[04-Jun-2017 12:27:38 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 12:28:08 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 15:46:46 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 15:47:01 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 15:47:35 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 15:47:36 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 15:47:42 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 15:48:08 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 15:48:41 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 16:04:21 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 16:05:58 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 16:06:09 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 16:09:25 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 16:10:07 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 16:11:33 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 16:11:39 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 16:12:10 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 17:13:21 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 17:52:16 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 17:54:32 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 17:54:36 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 17:55:13 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 18:02:28 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 18:02:48 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 18:03:54 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 18:04:02 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 18:04:54 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 18:10:06 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 18:10:37 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 18:10:46 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 18:16:19 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 18:16:56 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 18:17:30 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 18:17:53 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 18:27:31 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 18:28:20 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 18:28:57 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
+[04-Jun-2017 18:29:50 Europe/Moscow] Uncaught exception: 'Exception' with message: 'No route matched'
+ Stack trace:  '#0 C:\OpenServer\OpenServer\domains\knockout.local\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+ Thrown in:  'C:\OpenServer\OpenServer\domains\knockout.local\Core\Router.php' on line 62
